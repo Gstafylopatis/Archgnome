@@ -11,7 +11,7 @@ set -e
 # if you are in a base system with no xserver and desktop...
 # this will install xserver
 
-echo "This is the opensource driver for nvidia"
+echo "This is the proprietary driver for nvidia"
 
 echo " Xserver setup"
 
